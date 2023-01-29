@@ -9,7 +9,7 @@ All other resources used in the challenge are within this repository, they must 
 The submission_file.xlsx file contains the dataframe containing with the predicted amount of assistance sorted by the State Code.
 The video linked above contains a summary of our methodology and findings.
 
-Ecoficiency.ipynb is the main code file used in our investigation, and the pdf file with the same name is only used to ensure that all cells are included.
+Ecoficiency.ipynb is the main code file used in our investigation, and the .py file with the same name should not be used.
 
 Required Files:
 test.csv
