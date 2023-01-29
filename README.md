@@ -2,7 +2,7 @@
 2023 Datathon
 
 
-VIEW OUR VIDEO: 
+# VIEW OUR VIDEO: https://youtu.be/4_oGUFJn1ak
 Slides, if needed: https://docs.google.com/presentation/d/1Y5iIOa8nL9PCsOMfYscGWCzhAB1KTZyjyZTfcxz0F4E/edit?usp=sharing
 
 All other resources used in the challenge are within this repository, they must be loaded into the colaboratory in order to run all cells.
